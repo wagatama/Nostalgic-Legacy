@@ -1,3 +1,6 @@
-Dear Community,
-We're excited to launch Rust Legacy Nostalgia, a dedicated server preserving the classic Rust Legacy experience. Supported by Twitch streamers 'DingMcKay' and 'heyWonderchild', we're committed to keeping this amazing server online for as long as it's active.
-Join us in reliving the nostalgia and camaraderie of Rust Legacy. Stay tuned for updates on how to get involved!
+[NEWS]
+- Developers working on pre-launch event.
+
+[TWITCH]
+@DingMcKay
+@heyWonderchild
