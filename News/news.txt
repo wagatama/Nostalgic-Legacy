@@ -1,6 +1,2 @@
-[NEWS]
-- Developers working on pre-launch event.
-
-[TWITCH]
-@DingMcKay
-@heyWonderchild
+[PATCH NOTES]
+N/A
